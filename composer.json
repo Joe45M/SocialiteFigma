@@ -1,6 +1,6 @@
 {
-    "name": "socialiteproviders/figma",
-    "description": "Figma OAuth2 Provider for Laravel Socialite",
+    "name": "joe45m/figma",
+    "description": "Figma OAuth2 Provider for Laravel Socialite. Forked from SocialiteProviders/Figma to add support for Figma OAuth2.",
     "license": "MIT",
     "keywords": [
         "figma",
@@ -11,14 +11,14 @@
     ],
     "authors": [
         {
-            "name": "Lucas Michot",
-            "email": "lucas@semalead.com"
+            "name": "Joe Moses",
+            "email": "hello@keypress.digital"
         }
     ],
     "support": {
-        "issues": "https://github.com/socialiteproviders/providers/issues",
-        "source": "https://github.com/socialiteproviders/providers",
-        "docs": "https://socialiteproviders.com/figma"
+        "issues": "https://github.com/Joe45M/SocialiteFigma",
+        "source": "https://github.com/Joe45M/SocialiteFigma",
+        "docs": "https://github.com/Joe45M/SocialiteFigma"
     },
     "require": {
         "php": "^8.0",

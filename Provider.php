@@ -19,7 +19,7 @@ class Provider extends AbstractProvider
 
     protected function getTokenUrl(): string
     {
-        return 'https://www.figma.com/api/oauth/token';
+        return 'https://api.figma.com/v1/oauth/token';
     }
 
     /**
