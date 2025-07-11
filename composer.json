@@ -1,5 +1,5 @@
 {
-    "name": "Joe45M/figma",
+    "name": "joe45m/figma",
     "description": "Figma OAuth2 Provider for Laravel Socialite. Forked from SocialiteProviders/Figma to add support for Figma OAuth2.",
     "license": "MIT",
     "keywords": [
