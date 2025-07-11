@@ -1,7 +1,7 @@
-# Figma
+# Figma (Forked to support updated Figma oauth routes)
 
 ```bash
-composer require socialiteproviders/figma
+composer require Joe45M/figma
 ```
 
 ## Installation & Basic Usage
