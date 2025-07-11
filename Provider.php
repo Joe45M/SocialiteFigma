@@ -10,7 +10,19 @@ class Provider extends AbstractProvider
 {
     public const IDENTIFIER = 'FIGMA';
 
-    protected $scopes = ['file_read'];
+    protected $scopes = [
+        'current_user:read',
+        'file_comments:read',
+        'file_comments:write',
+        'file_content:read',
+        'file_dev_resources:read',
+        'file_dev_resources:write',
+        'file_metadata:read',
+        'file_variables:read',
+        'file_variables:write',
+        'team_library_content:read',
+        'projects:read',
+        ];
 
     protected function getAuthUrl($state): string
     {
